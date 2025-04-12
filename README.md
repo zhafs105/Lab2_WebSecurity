@@ -1,4 +1,4 @@
-# Lab2_WebSecurity
+# Lab1_WebSecurity
 
 BIS 20303 Web Security
 Lab 1: Exploring OWASP & Web Security Risks
